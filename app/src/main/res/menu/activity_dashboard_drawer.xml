@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home Screen" />
+
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_support"
+            android:title="Help and Support" />
+        <item
+            android:id="@+id/Policies"
+            android:icon="@drawable/ic_policy"
+            android:title="Policies"
+            android:visible="false" />
+        <item
+            android:id="@+id/Terms"
+            android:icon="@drawable/ic_agreement"
+            android:title="Terms and Condition"
+            android:visible="false" />
+    </group>
+
+</menu>

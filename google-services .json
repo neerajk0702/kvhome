@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47630849752",
+    "firebase_url": "https://kvdiot.firebaseio.com",
+    "project_id": "kvdiot",
+    "storage_bucket": "kvdiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47630849752:android:f1ed87c9612a7395",
+        "android_client_info": {
+          "package_name": "com.kredivation.kviot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47630849752-s94l2iqmjfbn72qo9q66cej85f36o6lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWEaoWo-G0__bMyS5s3ky-pHA6bLwUoHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
